@@ -1,2 +1,4 @@
 # basic-tictactoe
-Basic TicTacToe game
+This is basic tictactoe project. This project was born from my boredom.<br>
+<br>
+Dependencies: ```random``` ```time```
