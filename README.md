@@ -1,4 +1,3 @@
 # basic-tictactoe
-This is basic tictactoe project. This project was born from my boredom.<br>
-<br>
+This is a basic tictactoe project, born from my boredomness.
 Dependencies: ```random``` ```time```
